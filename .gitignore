@@ -2,4 +2,4 @@ lib/db.js
 
 lib/mysql.js
 
-password.js
+/password.js
